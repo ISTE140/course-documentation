@@ -56,7 +56,7 @@ Create your first HTML file...
 
 	<body>
 		<h1>Hello World!</h1>
-		<p>This is the first webpage created by me, in CSC 170.</p>
+		<p>This is the first webpage created by me, in ISTE 140.</p>
 		<p>- Enter Your Name</p>
 	</body>
 
