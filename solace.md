@@ -34,8 +34,8 @@ Get your **start.html** file from Lab 1 and using your FTP software, copy the fi
 
 Open a web browser tab and go to:
 
-`http://solace.ist.rit.edu/~<ritusername>/start.php`
-...where \<ritusername> is your RIT Username
+`http://solace.ist.rit.edu/~<ritusername>/start.php`<br>
+...where \<ritusername> is your RIT Username<br>
 ...BTW, notice there is a tilde (~) right before your username! It needs to be there.
 
 
