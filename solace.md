@@ -11,9 +11,9 @@ The automatic process should be quite done by now so when you have a chance do t
 
 - Using your FTP software, login with the following credentials
 
-  Protocol: **SFTP** (not plain FTP this time), and port **22**
-  Host name (or server name): **ist-solace.main.ad.rit.edu**
-  Username: **\<your RIT username>**
+  Protocol: **SFTP** (not plain FTP this time), and port **22**<br>
+  Host name (or server name): **ist-solace.main.ad.rit.edu**<br>
+  Username: **\<your RIT username>**<br>
   Password: **\<your RIT password>**
 
 *See the attached screen shot from my WinSCP software...*![figure1](media\figure1.png)
