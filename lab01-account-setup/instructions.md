@@ -47,7 +47,7 @@ Create your first HTML file...
 ```html
 <!doctype html>
 
-<html>
+<html lang="en">
 
 	<head>
 		<meta charset="utf-8">
