@@ -2,6 +2,14 @@
 
 *Note: for all links in this webpage that connect directly to items in MyCourses, you have to have a web browser open and logged-in to MyCourses **first** for the links to work correctly.  It's a MyCourses thing.*
 
+## Thursday, September 9, 2021
+
+*Day 6: Introduction to CSS*
+
+- [Web Presentation - CSS (PDF in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7663520/View)
+
+- TO-DO: [Lab 5: CSS for Formatting, Part 1](lab05-css-for-formatting1/instructions.md) (due: Tuesday, September 14)
+
 ## Tuesday, September 7, 2021
 
 *Day 5: Research Papers Online*
