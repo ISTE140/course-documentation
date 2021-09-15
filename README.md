@@ -16,6 +16,10 @@ See the [Archive (a running list of everything that came before today)](schedule
 
 - [CSS: Intro to Formatting (video in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7600408/View)
 - [CSS: Cascade + Inheritance (video in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7600412/View)
+- [CSS: Box Model (video in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7600409/View)
+- [CSS: Targeting Elements (video in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7600424/View)
+- [CSS: Color (link to a CodePen in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7600410/View)
+- [CSS: Type (link to a CodePen in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7600410/View)
 - [More slides ...some redundant with Prof. Kostin's slides (PDF in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7600396/View)
 
 
