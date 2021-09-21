@@ -8,5 +8,5 @@ See the [Archive (a running list of everything that came before today)](schedule
 
 - [CSS for Layout, part 1 (PDF in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7684982/View)
 - [CSS for Layout, part 2 (PDF in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7684996/View)
-- Coming soon: links to course materials about the Design process
+- HOMEWORK (coming soon): links to course materials about the design process
 - TO-DO: [Lab 7: CSS for Layout](lab07-css-for-layout/instructions.md) (due: Thursday, September 21)
