@@ -11,6 +11,6 @@ See the [Archive (a running list of everything that came before today)](schedule
   - [Can I use.com (online reference website)](https://caniuse.com/)
   - [Flexy Boxes (online code generator website)](https://the-echoplex.net/flexyboxes/)
   - [CSS Grid (online code generator website)](https://cssgr.id/)
-- TO-DO: Create a draft wireframe diagram for a webpage (details coming soon)
-- TO-DO: [Lab 7: CSS for Layout](lab07-css-for-layout/instructions.md) (due: Thursday, September 28)
+- TO-DO: [Lab 7: CSS for Layout](lab07-css-for-layout/instructions.md) (due: Tuesday, September 28)
+- TO-DO: [Lab 8: Wireframe](lab08-wireframe/instructions.md) (due: Tuesday, September 28)
 
