@@ -2,6 +2,18 @@
 
 Here's a running list of everything, before today
 
+## Thursday, September 23, 2021
+
+*Day 10: Layout Workshop*
+
+- [CSS for Layout, part 2 (PDF in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7684996/View)
+  - [Flex and Grid Demo Files (ZIP in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7688975/View)
+  - [Can I use.com (online reference website)](https://caniuse.com/)
+  - [Flexy Boxes (online code generator website)](https://the-echoplex.net/flexyboxes/)
+  - [CSS Grid (online code generator website)](https://cssgr.id/)
+- TO-DO: [Lab 7: CSS for Layout](lab07-css-for-layout/instructions.md) (due: Tuesday, September 28)
+- TO-DO: [Lab 8: Wireframe](lab08-wireframe/instructions.md) (due: Tuesday, September 28)
+
 ## Tuesday, September 21, 2021
 
 *Day 9: CSS for Layout & The Design Process*

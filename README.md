@@ -2,15 +2,11 @@
 
 See the [Archive (a running list of everything that came before today)](schedule.md)
 
-## Thursday, September 23, 2021
+## Tuesday, September 28, 2021
 
-*Day 10: Layout Workshop*
+*Day 11: CSS for Navigation*
 
-- [CSS for Layout, part 2 (PDF in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7684996/View)
-  - [Flex and Grid Demo Files (ZIP in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7688975/View)
-  - [Can I use.com (online reference website)](https://caniuse.com/)
-  - [Flexy Boxes (online code generator website)](https://the-echoplex.net/flexyboxes/)
-  - [CSS Grid (online code generator website)](https://cssgr.id/)
-- TO-DO: [Lab 7: CSS for Layout](lab07-css-for-layout/instructions.md) (due: Tuesday, September 28)
-- TO-DO: [Lab 8: Wireframe](lab08-wireframe/instructions.md) (due: Tuesday, September 28)
+- [CSS for Navigation (PDF in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7698423/View)
+  - [Basic Navigation Demo File (ZIP in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7698428/View)
+- TO-DO: [Lab 9: CSS for Navigation](lab09-css-for-navigation/instructions.md) (due: Thursday, September 30)
 
