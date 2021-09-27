@@ -33,5 +33,7 @@ The purpose of this lab is to practice using wireframing software of your choice
 ## Step 4: Report your work
 
 - You need to turn-in your wireframe diagram in MyCourses, however if the software you chose to develop your wireframe diagram saves files in a proprietary format (likely) you need to export your diagram into a more universally accessible format like a JPG, PNG, PDF, etc.
-- In our MyCourses section, in Assignments: Lab 8, upload your wireframe diagram to receive credit for this Lab.
-
+- To receive credit for this Lab, in our MyCourses section, in Assignments: Lab 8, 
+  - Upload your wireframe diagram (JPG, PDF, or some other common format)
+  - Also, indicate what software you used to generate your wireframe diagram (just write-in the name of the software)
+  - And include a link(s) to the webpage(s) you used for inspiration for the wireframe diagram
