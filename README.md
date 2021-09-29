@@ -2,11 +2,13 @@
 
 See the [Archive (a running list of everything that came before today)](schedule.md)
 
-## Tuesday, September 28, 2021
+## Thursday, September 30, 2021
 
-*Day 11: CSS for Navigation*
+*Day 12: Positioning; and Images for the web*
 
-- [CSS for Navigation (PDF in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7698423/View)
-  - [Basic Navigation Demo File (ZIP in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7698428/View)
-- TO-DO: [Lab 9: CSS for Navigation](lab09-css-for-navigation/instructions.md) (due: Thursday, September 30)
+- CSS Positioning (PDF in MyCourses)
+  - Complex navigation example files (ZIP in MyCourses)
+- Images for the Web (PDF in MyCourses)
+  - Background image demo files (ZIP in MyCourses)
+- TO-DO: [Lab 10: Images for the Web](lab10-images-for-the-web/instructions.md) (due: Tuesday, October 5)
 
