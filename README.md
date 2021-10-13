@@ -2,6 +2,8 @@
 
 See the [Archive (a running list of everything that came before today)](schedule.md)
 
+## Thursday, October 7, 2021
+
 *Day 14: Mobile Design*
 
 - [Mobile Design (PDF in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7716443/View)
