@@ -13,5 +13,6 @@ See the [Archive (a running list of everything that came before today)](schedule
 
 *Continue work on...*
 
-- Project 1: Classic HTML Document and Plan (due: Tuesday, October 12)
+- Project 1: Classic HTML Document and Plan (due: <s>Tuesday, October 12,</s> TBD)
   - Details discussed in-class
+
