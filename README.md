@@ -2,17 +2,12 @@
 
 See the [Archive (a running list of everything that came before today)](schedule.md)
 
-## Thursday, October 7, 2021
+## Thursday, October 14, 2021
 
-*Day 14: Mobile Design*
+*Day 15: Project 1 Instructions Review*
 
-- [Mobile Design (PDF in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7716443/View)
-  - [Mobile Design Demo Files (ZIP in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7716447/View)
-  - [Accessible, Simple, Responsive Tables (CSS Tricks website)](https://css-tricks.com/accessible-simple-responsive-tables/)
-  - [How To Create A Responsive Table (W3schools.com)](https://www.w3schools.com/howto/howto_css_table_responsive.asp)
+- [Project 1: Classic HTML Document & Wireframes](project01-classic-html-document-and-wireframes/instructions.md) (due: Thursday, October 21)
+  - [Team progress review (shared Google Sheet)](https://docs.google.com/spreadsheets/d/1c-SXrIti10_0lrW8V6KgVKQchu6ykPR3JEdp50Msh6Y/edit#gid=0)
 
-*Continue work on...*
-
-- Project 1: Classic HTML Document and Plan (due: <s>Tuesday, October 12,</s> TBD)
-  - Details discussed in-class
+- TO-DO: [Lab 11: Mobile Design](lab11-mobile-design/instructions.md) (due: Tuesday, October 19)
 
