@@ -5,7 +5,7 @@
 
 Remembering that the original use of the web was to post academic research papers online, we will start a series of projects by replicating the type of documents that were created at that time.  In later projects: we will format our documents with CSS, and after that we will add interactive *behaviors* using JavaScript to create a look & feel of a modern brochure website.
 
-- This first step, Project 1, you will use NO formatting – you will do *nothing* to your HTML document to try and make it look nice.  The goal is to simply **gather content, and mark it up semantically correct** using HTML5 tags, and let the formatting be done automatically by the browser’s built-in styles.  
+- This first step, Project 1, you will use NO formatting – you will do *nothing* to your HTML documents to try and make it look nice.  The goal is to simply **gather content, and mark it up semantically correct** using HTML5 tags, and let the formatting be done automatically by the browser’s built-in styles.  
 
 - At the same time, you will create a set of **wireframe diagrams** that relate to the content, which indicate how you plan to layout the content when you apply CSS (later, in Project 2).
 - You will also make sure all the HTML documents meet **all industry standards and best practices**, and then publish them on the class web server.
