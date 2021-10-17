@@ -33,7 +33,7 @@ Keep in mind, everyone's design is different.  Exactly what you need to do to ma
 
 #### Media Queries
 
-- Open your **styles.css** file, **home.css** file, and **navigation.css** file for editing
+- Open your **styles.css** file, and **navigation.css** file for editing
 
 - Find your "breakpoints" and then figure out what CSS you need to change using *media queries* to fix the breakage.  
 
@@ -73,13 +73,6 @@ Keep in mind, everyone's design is different.  Exactly what you need to do to ma
      } 
      ```
 
-   - Take a look at your *homepage*.  At small widths you'll probably need to un-do the side-by-side positioning of the elements in your "hero" element; you would write in your **home.css** file something like this:
-
-     ```css
-     @media (max-width: ___px) {
-          .inner-container { display: block; } /* ...this will un-do CSS Grid on the container */
-     }
-     ```
 
 #### Images
 
