@@ -2,6 +2,17 @@
 
 Here's a running list of everything, before today
 
+## Tuesday, October 19, 2021
+
+*Day 16: Localhost and GitHub*
+
+- Localhost using WAMP and MAMP software ([mamp.info](https://www.mamp.info/))
+- GitHub Desktop ([desktop.github.com](https://desktop.github.com/))
+
+*Continue work on...*
+
+- [Project 1: Classic HTML Document & Wireframes](project01-classic-html-document-and-wireframes/instructions.md) (due: Thursday, October 21)
+
 ## Thursday, October 14, 2021
 
 *Day 15: Project 1 Instructions Review*
