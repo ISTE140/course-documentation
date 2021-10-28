@@ -2,10 +2,14 @@
 
 See the [Archive (a running list of everything that came before today)](schedule.md)
 
-## Thursday, October 21, 2021
+## Thursday, October 28, 2021
 
-*Day 17: Prep for the Midterm Exam & Practical*
+*Day 19: Website Construction, Part 1*
 
-- We'll go over everything that'll be on the exam and practical (Tuesday, October 26)
-- I'll answer questions and do demos on anything on which you need help
-- As time allows, we'll do live demos and practice with using your localhost and GitHub
+- [Website Construction (PDF in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7753442/View)
+
+- [NYC Demo Files (ZIP in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7753437/View)
+- [What Does PHP Stand For? (PHP.net website)](https://www.php.net/manual/en/faq.general.php#faq.general.acronym)
+
+- TO-DO: [Lab 12: PHP Includes (due: Tuesday, November 2)](lab12-php-includes/instructions.md)
+

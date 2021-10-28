@@ -2,6 +2,20 @@
 
 Here's a running list of everything, before today
 
+## Tuesday, October 26, 2021
+
+*Day 18: Midterm Exam*
+
+- Midterm exam
+
+## Thursday, October 21, 2021
+
+*Day 17: Prep for the Midterm Exam & Practical*
+
+- We'll go over everything that'll be on the exam and practical (Tuesday, October 26)
+- I'll answer questions and do demos on anything on which you need help
+- As time allows, we'll do live demos and practice with using your localhost and GitHub
+
 ## Tuesday, October 19, 2021
 
 *Day 16: Localhost and GitHub*
