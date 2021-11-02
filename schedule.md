@@ -2,6 +2,17 @@
 
 Here's a running list of everything, before today
 
+## Thursday, October 28, 2021
+
+*Day 19: Website Construction, Part 1*
+
+- [Website Construction (PDF in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7753442/View)
+
+- [NYC Demo Files (ZIP in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7753437/View)
+- [What Does PHP Stand For? (PHP.net website)](https://www.php.net/manual/en/faq.general.php#faq.general.acronym)
+
+- TO-DO: [Lab 12: PHP Includes (due: Tuesday, November 2)](lab12-php-includes/instructions.md)
+
 ## Tuesday, October 26, 2021
 
 *Day 18: Midterm Exam*
