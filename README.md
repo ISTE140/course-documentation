@@ -2,7 +2,7 @@
 
 See the [Archive (a running list of everything that came before today)](schedule.md)
 
-## Thursday, November 3, 2021
+## Thursday, November 4, 2021
 
 - [Webpage Behavior (JavaScript), part 1 (PDF in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7762229/View)
 - [JavaScript Demo Files (ZIP in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7762241/View)
