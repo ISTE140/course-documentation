@@ -2,12 +2,13 @@
 
 See the [Archive (a running list of everything that came before today)](schedule.md)
 
-## Thursday, November 4, 2021
+## Tuesday, November 9, 2021
 
-*Day 21: Webpage Behavior, part 1*
+*Day 22: Webpage Behavior, part 2*
 
-- [Webpage Behavior (JavaScript), part 1 (PDF in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7762229/View)
-- [JavaScript Demo Files (ZIP in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7762241/View)
+- [Webpage Behavior (the Document Object Model), part 2 (PDF in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7768591/View)
+- [JavaScript - Document Object Model Demo File (ZIP in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7768592/View)
+- TO-DO: [Lab 13: JavaScript Basics](lab13-javascript-basics/instructions.md) (due: Tuesday, November 16 ...one week!)
 
 *Continue Work on...*
 
