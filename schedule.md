@@ -2,6 +2,20 @@
 
 Here's a running list of everything, before today
 
+## Thursday, November 11, 2021
+
+*Day 23: JavaScript Libraries and Plugins*
+
+- [JavaScript Libraries (PDF in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7771646/View)
+- [JavaScript Plugins (PDF in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7771645/View)
+- [Libraries & Plugin Demos (ZIP in MyCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7771647/View)
+- TO-DO: [Lab 14: JavaScript Plugins](lab14-javascript-plugins/instructions.md) (due: Tuesday, November 16 ...beware! overlaps with Lab 13)
+  - [jQuery (official website)](https://jquery.com/)
+  - [jQuery UI (official website)](https://jqueryui.com/)
+  - [Fancybox (plugin website)](https://fancyapps.com/docs/ui/fancybox/)
+  - [ResponsiveSlides (plugin website)](http://responsiveslides.com/)
+  - [Super. Simple. Slider. (plugin website)](https://supersimpleslider.com/)
+
 ## Tuesday, November 9, 2021
 
 *Day 22: Webpage Behavior, part 2*
