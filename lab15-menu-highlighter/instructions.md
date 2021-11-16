@@ -25,7 +25,7 @@ Note:  The **menu-highlighter.js** file will automatically insert the "is-curren
 
 ## Part 3: Optimize the CSS Links using PHP Variables and PHP Echo statements
 
-*NOTE: the specific instructions for what and how to edit your files are in the lecture video*
+*NOTE: the specific instructions for what and how to edit your files were demonstrated in the recent lecture*
 
 - Create a PHP variable (like **$customCSS**) in a PHP block at the top of each webpage
 
