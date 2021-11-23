@@ -2,6 +2,17 @@
 
 Here's a running list of everything, before today
 
+## Thursday, November 18, 2021
+
+*Day 25: HTML Forms, part 1*
+
+- [HTML Forms, part 1 (PDF in myCourses)](https://mycourses.rit.edu/d2l/le/content/936882/viewContent/7781890/View)
+- TO-DO: [Lab 16: HTML Forms, part 1](lab16-html-forms1/instructions.md) (due: Tuesday, November 23)
+
+*Continue work on...*
+
+- [Project 3: Website Behaviors](project03-website-behavior/instructions.md) (due: Tuesday, November 23)
+
 ## Tuesday, November 16, 2021
 
 *Day 24: Website Construction, part 2*
