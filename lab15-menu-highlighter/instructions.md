@@ -56,4 +56,4 @@ Then use your FTP software to access your account on **iste140.org** and upload 
 
 ## Part 5:  Report your work
 
-In our Blackboard section, in Lab 15, post a link to your website to receive credit for this Lab.
+In our myCourses section, in Lab 15, post a link to your website to receive credit for this Lab.
